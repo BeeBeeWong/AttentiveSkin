@@ -5,7 +5,7 @@ Download: https://github.com/BeeBeeWong/AttentiveSkin/releases/tag/v1.0
 
 # Some tools used in the software building
 Sun Valley ttk theme (https://github.com/rdbende/Sun-Valley-ttk-theme) for GUI button styles;  
-DGL-LifeSci (https://github.com/awslabs/dgl-lifesci) for Attentive FP architecture;  
+DGL-LifeSci (https://github.com/awslabs/dgl-lifesci) for Attentive FP (https://github.com/OpenDrugAI/AttentiveFP) architecture;  
 Nuitka (https://github.com/Nuitka/Nuitka) for packaging Python codes.
 
 
