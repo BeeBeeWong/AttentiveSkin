@@ -1,5 +1,5 @@
 # AttentiveSkin
-Predict Skin Corrosion/Irritation Potential of Chemicals with Explainable Machine Learning  
+To Predict Skin Corrosion/Irritation Potentials of Chemicals via Explainable Machine Learning Methods  
 Download: https://github.com/BeeBeeWong/AttentiveSkin/releases/tag/v1.0  
   
   
