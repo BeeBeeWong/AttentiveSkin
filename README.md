@@ -41,7 +41,7 @@ Segoe UI Emoji font family on Win 10 (https://learn.microsoft.com/en-us/typograp
 
 
 # Cite
-Details about the models can be accessed through this work: DOI_XXX
+Details about the models can be accessed through this work: https://www.doi.org/10.1021/acs.chemrestox.3c00332
 
 
 # Contact
